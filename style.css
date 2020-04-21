@@ -1,0 +1,81 @@
+* {
+    margin:0;
+    padding:0;
+    border:none;
+}
+.flexCentered {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+.hi50 {
+    height: 50px;
+    background-color: rgba(0,0,0,.7);
+}
+.hi50 a{
+    text-decoration: none;
+    color: white;
+}
+.inicio-pagina{
+    width:100%;
+    height:700px
+}
+.cita{
+    font-size: 23px;
+    background-color: rgba(204,102,0,0.2)
+}
+.text{
+    text-align: justify;
+}
+.foto-personaje{
+    width:100%;
+    height:700px;
+}
+.cita2{
+    font-size: 23px;
+     background-color: rgba(204,102,0,0.2)
+}
+.newspaper{
+    column-count: 4;
+    text-align: justify
+}
+.enrique.laguerre{
+    width:100%;
+    height:300px;
+}
+.cita2{
+    font-size: 23px;
+    background-color: rgba(204,102,0,0.2)
+}
+.text2{
+    text-align: justify;
+    column-count: 4;
+}
+.ventura-rondon{
+    width:100%;
+    height:675px
+}
+.cita-rondon{
+    font-size: 23px;
+    background-color: rgba(204,102,0,0.2)
+}
+.newspaper-rondon{
+    column-count: 4;
+    text-align: justify
+}
+.segundo-marte{
+    width:100%;
+    height:670px
+}
+.cita-marte{
+    font-size: 23px;
+    background-color: rgba(204,102,0,0.2)
+}
+.text-marte{
+    column-count: 4;
+    text-align: justify
+}
+
